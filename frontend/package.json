@@ -14,15 +14,16 @@
   "dependencies": {
     "@apollo/client": "^3.3.19",
     "@appbaseio/reactivesearch": "^3.43.10",
+    "@cloudscape-design/global-styles": "^1.0.11",
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
     "@monaco-editor/react": "^4.3.1",
     "@mui/icons-material": "^5.5.1",
-    "@mui/x-date-pickers": "^5.0.0",
     "@mui/lab": "^5.0.0-alpha.74",
     "@mui/material": "^5.5.2",
     "@mui/styles": "^5.5.1",
     "@mui/x-data-grid": "^5.7.0",
+    "@mui/x-date-pickers": "^5.0.0",
     "@reduxjs/toolkit": "^1.8.0",
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
@@ -60,7 +61,7 @@
     "web-vitals": "^2.1.4",
     "yup": "^0.32.11"
   },
-  "overrides" : {
+  "overrides": {
     "@appbaseio/reactivesearch": {
       "react-redux": "^7.2.6"
     }
